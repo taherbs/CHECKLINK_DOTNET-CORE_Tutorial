@@ -4,7 +4,7 @@ Small introductory DOTNET-CORE console application.
 This application check health of a link and all it's **href** references than creates a report document.
 
 ## Prerequisites
-* [docker]
+* [docker](https://docs.docker.com/install/)
 * [dotnet-core sdk/runtime](https://dotnet.microsoft.com/download) - For local development
 
 ## Usage:
