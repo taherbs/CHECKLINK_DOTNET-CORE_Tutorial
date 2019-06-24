@@ -1,0 +1,9 @@
+{
+    "APP": {
+        "SITE": "https://google.com"
+    },
+    "OUTPUT": {
+        "FOLDER": "reports",
+        "FILE": "report.txt"
+    }
+}
